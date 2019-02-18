@@ -5,7 +5,7 @@ group='com.github.wangqiaozhang'//this
 android {
     compileSdkVersion 26
     defaultConfig {
-   
+
         minSdkVersion 21
         targetSdkVersion 26
         versionCode 1
