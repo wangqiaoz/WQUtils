@@ -1,9 +1,10 @@
-apply plugin: 'com.android.application'
-
+apply plugin: 'com.android.library'
+apply plugin: 'com.github.dcendents.android-maven'//this
+group='com.github.wangqiaozhang'
 android {
     compileSdkVersion 26
     defaultConfig {
-        applicationId "com.wang.administrator.wquitls"
+    
         minSdkVersion 21
         targetSdkVersion 26
         versionCode 1

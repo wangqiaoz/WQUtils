@@ -1,1 +1,1 @@
-include ':app', ':wqutilslibrary'
+include ':app'
